@@ -3,6 +3,6 @@
 - 长的像牛角，表示尖。ang
 - 26个字母排第一个，表示一 a,an
 - A有向上的意思，表示加 add
-- A有反向的意思，表示否懂，happy,unhappy
+- A有反向的意思，表示否定，happy,unhappy
 - A有箭头的意思，表示方向, asleep(去睡觉，睡着)
 - able:能力
