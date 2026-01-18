@@ -24,3 +24,14 @@
 - air：=ani（空气，生命需要空气）
 - an,ant,anc:前、古老
 - star,aster,astro:星星✨
+- add:增加
+- zuc，zug：增加
+- al,el,ol,alt,ult,ali,alter,ulter:向上生长（A是高、L是长）
+- ann:年，（每一年），enn：很多年
+- ana:分开
+- arm：胳膊
+- art：艺术
+- arc：弧形
+- ang,ank,anx,anch:角
+- 和U互换，表否定
+- alb：白（阿尔卑斯山，白雪覆盖）alps：阿尔卑斯山
