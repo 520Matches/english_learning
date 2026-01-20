@@ -11,3 +11,13 @@
 - 火焰：木棒能烧火,burn(火焰)，fire火焰（bpmfv互换）
 - blue：火的颜色有蓝(蓝色火焰)，红，黑（东西烧黑），白
 - 建筑：木棒能造房子：床，bed，build
+
+# B词根
+
+- band,bind,bend,bond,bund:绑
+- bio:生命
+- bat：拍（轻拍）。pat：拍（重拍）
+- bat：敲打、撞击、爆破
+- bar：棍子、障碍
+- bon、bene、bea：好
+- bell：钟响、战争
